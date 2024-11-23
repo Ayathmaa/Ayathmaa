@@ -13,6 +13,8 @@
 <p align="center">
 <a href="https://github.com/Ayathmaa">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayathmaa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+  <br>
+  <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayathmaa&&exclude_repo=Ayathmaa&layout=compact&theme=dracula" alt="languages"/>
 </a>
 </p>
